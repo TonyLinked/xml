@@ -1,33 +1,27 @@
 # Prerequisites
 *.d
-
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
-
 # Linker output
 *.ilk
 *.map
 *.exp
-
 # Precompiled Headers
 *.gch
 *.pch
-
 # Libraries
 *.lib
 *.a
 *.la
 *.lo
-
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
-
 # Executables
 *.exe
 *.out
@@ -35,34 +29,5 @@
 *.i*86
 *.x86_64
 *.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-a1
-a2
-a3
-a4
-a5
-a6
-a7
-a8
-a9
-a10
-b1
-b2
-b3
-b4
-b5
-b6
+a1a2a3a4a5a6a7a8a9a10
+b1b2b3b4b5b6b7
